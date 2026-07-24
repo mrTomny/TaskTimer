@@ -1,4 +1,4 @@
-# TaskTimer <img src="https://raw.githubusercontent.com/mrTomny/TaskTimer/main/assets/TaskTimer.ico" width="32" height="32" align="right">
+# TaskTimer <img src="assets/logo.png" width="32" height="32" align="right">
 
 > **Профессиональный настольный трекер контрактов и дедлайнов с уникальной атмосферой и защитой от потери времени.**
 
